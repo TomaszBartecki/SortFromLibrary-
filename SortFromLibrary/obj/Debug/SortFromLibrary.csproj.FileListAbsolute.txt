@@ -1,0 +1,7 @@
+C:\Users\Tomek\source\repos\SortFromLibrary\SortFromLibrary\bin\Debug\SortFromLibrary.exe.config
+C:\Users\Tomek\source\repos\SortFromLibrary\SortFromLibrary\bin\Debug\SortFromLibrary.exe
+C:\Users\Tomek\source\repos\SortFromLibrary\SortFromLibrary\bin\Debug\SortFromLibrary.pdb
+C:\Users\Tomek\source\repos\SortFromLibrary\SortFromLibrary\obj\Debug\SortFromLibrary.csprojAssemblyReference.cache
+C:\Users\Tomek\source\repos\SortFromLibrary\SortFromLibrary\obj\Debug\SortFromLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\source\repos\SortFromLibrary\SortFromLibrary\obj\Debug\SortFromLibrary.exe
+C:\Users\Tomek\source\repos\SortFromLibrary\SortFromLibrary\obj\Debug\SortFromLibrary.pdb
